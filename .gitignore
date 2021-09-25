@@ -1,4 +1,6 @@
-[200~.idea
+#.gitignore
+.idea/
+.idea
 *.iml
 .classpath
 .project
